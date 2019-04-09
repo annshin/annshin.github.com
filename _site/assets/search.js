@@ -1,1 +1,0 @@
-window.TEXT_SEARCH_DATA={'posts':[{'title':'Welcome','url':'%2F2019%2F04%2F06%2Ftest.html'}]};
