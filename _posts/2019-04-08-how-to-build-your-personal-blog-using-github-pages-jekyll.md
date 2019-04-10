@@ -17,11 +17,13 @@ I searched on the web and heard of words like [GitHub pages](https://pages.githu
 
 **Now:**
 
-1. I'd like to know a bit more about GitHub Pages first: [press here](#faq){:.button.button--primary.button--pill}
+1. I'd like to know a bit more about GitHub Pages first: [press here](#faq){:.button.button--primary.button--rounded.button--sm}
 
-2. I just want to create my blog *now*: [step-by-step tuto](#tuto){:.button.button--primary.button--pill}
+2. I just want to create my blog *now*: [step-by-step tuto](#tuto){:.button.button--primary.button--rounded.button--sm}
 
 3. There is nothing I want here. I'm leaving.
+
+<!--more-->
 
 ## <a name="faq"></a>About GitHub Pages
 (It's certainly not exhaustive, I just wrote about what I've looked at and selected the parts I found useful)
