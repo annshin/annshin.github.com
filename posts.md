@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: home
 title: Posts
 show_title: false
 articles:
@@ -8,4 +8,5 @@ articles:
   show_excerpt: true
   show_readmore: true
   show_info: true
+  excerpt_type: html
 ---
