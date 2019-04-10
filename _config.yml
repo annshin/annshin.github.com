@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : "ded3f32531f192347e6f" # GitHub Application Client ID
     clientSecret: "f9e98fee7e453eb439ae4ab83b5208ad081661a2" # GitHub Application Client Secret
-    repository  : "annshin.github.io" # GitHub repo
+    repository  : "annshin.github.com" # GitHub repo
     owner       : "annshin" # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - "annshin"
