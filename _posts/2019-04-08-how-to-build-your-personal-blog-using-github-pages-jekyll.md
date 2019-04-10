@@ -2,6 +2,7 @@
 layout: article
 title: How to build your personal blog using GitHub Pages + Jekyll
 tags: pseudo-tutorial-random
+key: 20190408
 ---
 
 `Beginner level`{:.success}

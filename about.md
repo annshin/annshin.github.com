@@ -15,7 +15,6 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-key: page-about
 ---
 
 Welcome !
