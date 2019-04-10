@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,18 +127,18 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : "ded3f32531f192347e6f" # GitHub Application Client ID
-    clientSecret: "f9e98fee7e453eb439ae4ab83b5208ad081661a2" # GitHub Application Client Secret
-    repository  : "annshin.github.com" # GitHub repo
-    owner       : "annshin" # GitHub repo owner
+    clientID    : # GitHub Application Client ID
+    clientSecret: # GitHub Application Client Secret
+    repository  : # GitHub repo
+    owner       : # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - "annshin"
+      - # Your userid
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
+    app_id      : "t6Y4TaY62vwcwrBoIz8pIvwM-gzGzoHsz" # LeanCloud App id
+    app_key     : "WqaPMuxDwGfiesmr2zdEnF0V" # LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
